@@ -1,2 +1,1 @@
-# Modul-1-HTML
-My first repository for GO IT
+https://flaperon09.github.io/goit-markup-hw-01/
